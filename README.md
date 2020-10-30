@@ -42,7 +42,7 @@ Among the fruits we have potted:
 
 **Feel free to help adding valuable information into this repository, starting with a detailed [feature-issue-request](https://github.com/chardso/fruit-culture-fruit-farming/issues)**
 FACTORS CONSIDERED IN ESTABLISHING ANUSERY BED.
-*size of land *location of land *availability of water *skilled labour force *availability of market *accessibility if the area.
+*size of land *location of land *availability of water *skilled labour force *availability of market *accessibility of the area.
 ## TIPS
 The following are tips on how to plant jack fruits.*clearing the area meant for planting *sort out the seeds you want for planting *open up asoil depth of 2cm where you are to put your seeds *pre treat your seeds with warm water for 30minutes before planting *sow your seeds and gently cover with the soil *water to provide moisture and in 6weeks the seeds shall have germinated into healthy seedling.
 ##SOIL TYPE.*sandy loam that is granular and porous  *the soil should enable water and air movement. *the soil pH should be around 6.0 to 7.5. *it should be slightly acidic.
