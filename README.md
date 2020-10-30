@@ -41,7 +41,7 @@ Among the fruits we have potted:
 - mangoes, orange, avocado and jackfruits, we look forward to acquire more.
 
 **Feel free to help adding valuable information into this repository, starting with a detailed [feature-issue-request](https://github.com/chardso/fruit-culture-fruit-farming/issues)**
-
-
+FACTORS CONSIDERED IN ESTABLISHING ANUSERY BED.
+*size of land *location of land *availability of water *skilled labour force *availability of market *accessibility if the area.
 ## [STEP-BY-STEP GUIDE](/STEP-BY-STEP_potting.md)
 → will follow soon
