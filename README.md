@@ -50,3 +50,4 @@ The following are tips on how to plant jack fruits.*clearing the area meant for 
 ##PHYSICAL PROPERTIES OF THE SOIL; *soil texture,which is referred to as the relative proportion of particles of various sizes such as sand,silt and clay in the soil.  *soil structure. *consistence. *partiole density. *bulky density. *porespaces. *soil colour. *atterberg limits(basic measure of critical water contents of fine grained soil,ie  -its shrinkage limit  -its plastic limit,liquid limits depending on its water content.  Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
 
 
+##CHEMICAL PROPERTIES OF THE SOIL; -cation exchange capacity. -soil pH. -base saturation percentage. -plant nutrients. -organic soil carbon. -soil nitrogen. -soil salinity. -soil sodicity.
