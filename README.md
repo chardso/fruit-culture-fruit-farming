@@ -51,3 +51,4 @@ The following are tips on how to plant jack fruits.*clearing the area meant for 
 
 
 ##CHEMICAL PROPERTIES OF THE SOIL; -cation exchange capacity. -soil pH. -base saturation percentage. -plant nutrients. -organic soil carbon. -soil nitrogen. -soil salinity. -soil sodicity.
+##SOIL pH.is ameasure of the acidity or basicity of the soil. It's defined as the negative logarithm of activity of hydronium ions in the solution..pH falls between 3 and 10 with 7 being neutral. The required pH for fruit farming is from 6-7.5.
