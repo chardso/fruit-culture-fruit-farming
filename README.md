@@ -1,5 +1,5 @@
 # fruit-culture (fruitfarming)
-**Fruit-culture is the systematic cultivation, propagation or rearing of fruits or fruit trees.**
+**Fruit-culture is the systematic cultivation, propagation or rearing of fruits or fruit trees.
 
 ![](/images/fruit-farming-7.jpg)
 
@@ -37,7 +37,10 @@ healthiest fruits on earth
 etc.
  Project "fruitplanting Adjumani Uganda"
 Among the fruits we have potted:
-- mangoes, orange, avocado and jackfruits, we look forward to acquire more.
+- mangoes 
+-orange 
+-avocado and jackfruits, 
+ we look forward to acquire more.
 
  Feel free to help adding valuable information into this repository, starting with a detailed [feature-issue-request](https://github.com/chardso/fruit-culture-fruit-farming/issues)**
 FACTORS CONSIDERED IN ESTABLISHING ANUSERY BED.
