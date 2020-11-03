@@ -35,20 +35,38 @@ healthiest fruits on earth
 - jackfruits
 - orange 
 etc.
-
-# Project "fruitplanting Adjumani Uganda"
+ Project "fruitplanting Adjumani Uganda"
 Among the fruits we have potted:
 - mangoes, orange, avocado and jackfruits, we look forward to acquire more.
 
-**Feel free to help adding valuable information into this repository, starting with a detailed [feature-issue-request](https://github.com/chardso/fruit-culture-fruit-farming/issues)**
+ Feel free to help adding valuable information into this repository, starting with a detailed [feature-issue-request](https://github.com/chardso/fruit-culture-fruit-farming/issues)**
 FACTORS CONSIDERED IN ESTABLISHING ANUSERY BED.
-*size of land *location of land *availability of water *skilled labour force *availability of market *accessibility of the area.
-## TIPS
+ -size of land
+ -location of land 
+ -availability of water 
+ -skilled labour force
+ -availability of market
+ -accessibility of the area.
+  TIPS
 The following are tips on how to plant jack fruits.*clearing the area meant for planting *sort out the seeds you want for planting *open up asoil depth of 2cm where you are to put your seeds *pre treat your seeds with warm water for 30minutes before planting *sow your seeds and gently cover with the soil *water to provide moisture and in 6weeks the seeds shall have germinated into healthy seedling.
-##SOIL TYPE.*sandy loam that is granular and porous  *the soil should enable water and air movement. *the soil pH should be around 6.0 to 7.5. *it should be slightly acidic.
-##MATERIALS,the following are materials needed setting anurserybed shed; *plow.  *hoe. *rented draft animal or hand tractor. *shovels. *budding knife. *pruning shears. *pruning saw. *pohs(plastic bags,bamboo, clay). *plastic sheets. *spade. *wood or wire. *fencing construction materials. *watering cans. *hose soil,sand and compost.
-##PHYSICAL PROPERTIES OF THE SOIL; *soil texture,which is referred to as the relative proportion of particles of various sizes such as sand,silt and clay in the soil.  *soil structure. *consistence. *partiole density. *bulky density. *porespaces. *soil colour. *atterberg limits(basic measure of critical water contents of fine grained soil,ie  -its shrinkage limit  -its plastic limit,liquid limits depending on its water content.  Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
+SOIL TYPE.
+ -sandy loam that is granular and porous  *the soil should enable water and air movement. *the soil pH should be around 6.0 to 7.5. *it should be slightly acidic.
+MATERIALS,the following are materials needed setting anurserybed shed; *plow.  *hoe. *rented draft animal or hand tractor. *shovels. *budding knife. *pruning shears. *pruning saw. *pohs(plastic bags,bamboo, clay). *plastic sheets. *spade. *wood or wire. *fencing construction materials. *watering cans. *hose soil,sand and compost.
+PHYSICAL PROPERTIES OF THE SOIL;
+ -soil texture,which is referred to as the relative proportion of particles of various sizes such as sand,silt and clay in the soil.  -
+ -soil structure
+ -consistence
+ -partiole densit
+ -bulky density.
+ -porespaces.
+ -soil colour.
+ -atterberg limits(basic measure of critical water contents of fine grained soil,ie  -its shrinkage limit  -its plastic limit,liquid limits depending on its water content.  Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
 
 
-##CHEMICAL PROPERTIES OF THE SOIL; -cation exchange capacity. -soil pH. -base saturation percentage. -plant nutrients. -organic soil carbon. -soil nitrogen. -soil salinity. -soil sodicity.
-##SOIL pH.is ameasure of the acidity or basicity of the soil. It's defined as the negative logarithm of activity of hydronium ions in the solution..pH falls between 3 and 10 with 7 being neutral. The required pH for fruit farming is from 6-7.5.
+CHEMICAL PROPERTIES OF THE SOIL;
+ -cation exchange capacity.
+ -soil pH. -base saturation percentage.
+ -plant nutrients. -organic soil carbon.
+ -soil nitrogen. -soil salinity.
+ -soil sodicity.
+  SOIL pH.is ameasure of the acidity or basicity of the soil. It's defined as the negative logarithm of activity of hydronium ions in the solution..pH falls between 3 and 10 with 7 being neutral. The required pH for fruit farming is from 6-7.5.
