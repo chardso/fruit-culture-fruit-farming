@@ -83,8 +83,9 @@ ANUSERY BED.
 
     
   
-   TIPS,
-   The following are tips on how to plant jack fruits.
+    TIPS,
+   
+The following are tips on how to plant jack fruits.
  
   -clearing the area meant for planting 
   
