@@ -102,3 +102,13 @@ CHEMICAL PROPERTIES OF THE SOIL;
    -pH falls between 3 and 10 with 7 being neutral.
    -The required pH for fruit farming is from 6-7.5.
 Some scientific names of a certain fruits.
+1.mango--Mangifera indica
+2.Apple--pyrus malus
+3.pomegranate--punica granatum
+4.pineapple sqq an an us sativus
+5.Orange--citrus aurantium
+6.strawberry--Fragariax ananassa
+7.Watermelon--citrullus vulgaris
+8.jackfruits--Artocarpus heterophyllus
+9.Guava--psidium guava
+10.Lemon--citrus limonium
