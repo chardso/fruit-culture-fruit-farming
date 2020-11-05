@@ -109,7 +109,8 @@ ANUSERY BED.
   -it should be slightly acidic.
 
 
-MATERIALS,
+ MATERIALS;
+ 
  The following are materials needed setting anurserybed shed;
   
  -plow. 
