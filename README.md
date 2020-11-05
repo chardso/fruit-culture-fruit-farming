@@ -101,3 +101,4 @@ CHEMICAL PROPERTIES OF THE SOIL;
    -It's defined as the negative logarithm of activity of hydronium ions in the solution..
    -pH falls between 3 and 10 with 7 being neutral.
    -The required pH for fruit farming is from 6-7.5.
+Some scientific names of a certain fruits.
