@@ -8,7 +8,8 @@
 > Note: aims, objectives, vision, importance and other narratives of this repository will be filed in detaile at a later stage.
 
 ## MOTIVATION
-Here is what influenced me to start this project repository:
+
+ Here is what influenced me to start this project repository:
 Basing on global research most studies suggest that the optimal amount of fruits is two or five servings per day and there seems to be no harm in eating them instead it contributes too much to the immune system health wise.
 
 **Considering this, fruitplanting will have greate impact to the community.**  
@@ -148,16 +149,16 @@ PHYSICAL PROPERTIES OF THE SOIL;
   
  -porespaces.
  
+ -soil colour
 
-
-
+-atterberg limits(basic measure of critical water contents of fine grained soil,ie
  
-  -soil colour.
-  
+  .it's shrinkage limit
+  .it's plastic limit
+  .liquid limits depending on its water content
  
- -atterberg limits(basic measure of critical water contents of fine grained soil,ie  
   
- -its shrinkage limit  -its plastic limit,liquid limits depending on its water content.  Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
+  -Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
 
 
 
@@ -178,7 +179,7 @@ CHEMICAL PROPERTIES OF THE SOIL;
   
   -soil salinity.
   
-  -soil sodicity.                          SOIL pH.is ameasure of the acidity or basicity of the soil. 
+  -soil sodicity.                          
   
   -It's defined as the negative logarithm of activity of hydronium ions in the solution..
   
