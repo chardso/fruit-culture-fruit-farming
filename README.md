@@ -81,7 +81,10 @@ ANUSERY BED.
   -accessibility of the area.
 
 
-TIPS; The following are tips on how to plant jack fruits.
+    
+  
+   TIPS,
+   The following are tips on how to plant jack fruits.
  
   -clearing the area meant for planting 
   
@@ -93,7 +96,9 @@ TIPS; The following are tips on how to plant jack fruits.
   
   -sow your seeds and gently cover with the soil 
  
-  -water to provide moisture and in 6weeks the seeds shall have germinated into healthy seedling. SOIL TYPE.
+  -water to provide moisture and in 6weeks the seeds shall have germinated into healthy seedling.
+   
+   SOIL TYPE.
   
   -sandy loam that is granular and porous 
   
@@ -104,7 +109,8 @@ TIPS; The following are tips on how to plant jack fruits.
   -it should be slightly acidic.
 
 
-MATERIALS, the following are materials needed setting anurserybed shed;
+MATERIALS,
+ The following are materials needed setting anurserybed shed;
   
  -plow. 
  
@@ -135,7 +141,7 @@ MATERIALS, the following are materials needed setting anurserybed shed;
    -hose soil,sand and compost.
 
 
-PHYSICAL PROPERTIES OF THE SOIL;
+    PHYSICAL PROPERTIES OF THE SOIL;
   
   -soil texture,which is referred to as the relative proportion of particles of various sizes such as sand,silt and clay in the soil.  -
  
