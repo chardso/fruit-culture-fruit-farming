@@ -205,7 +205,7 @@ SOME SCIENTIFIC NAMES OF CERTAIN FRUITS.
 
  3.pomegranate--punica granatum
 
- 4.pineapple sqq an an us sativus
+ 4.pineapple --ananassa sativus
 
  5.Orange--citrus aurantium
 
