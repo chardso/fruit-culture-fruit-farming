@@ -147,11 +147,11 @@ The following are tips on how to plant jack fruits.
   
   - soil texture,which is referred to as the relative proportion of particles of various sizes such as sand,silt and clay in the soil.  -
  
-  - soil structur
+  - soil structure
   
-  - consistenc 
+  - consistence
   
-  - partiole densit
+  - partiole density
   
   - bulky density.
   
