@@ -195,25 +195,25 @@ The following are tips on how to plant jack fruits.
 # SOME SCIENTIFIC NAMES OF CERTAIN FRUITS.
 
 
- 1. mango--Mangifera indica
+- mango--Mangifera indica
 
- 2. Apple--pyrus malus
+-Apple--pyrus malus
 
- 3. pomegranate--punica granatum
+- pomegranate--punica granatum
 
- 4. pineapple --ananassa sativus
+- pineapple --ananassa sativus
 
- 5. Orange--citrus aurantium
+- Orange--citrus aurantium
 
- 6. strawberry--Fragariax ananassa
+- strawberry--Fragariax ananassa
 
- 7. Watermelon--citrullus vulgaris
+- Watermelon--citrullus vulgaris
 
- 8. jackfruits--Artocarpus heterophyllus
+- jackfruits--Artocarpus heterophyllus
 
- 9. Guava--psidium guava
+- Guava--psidium guava
 
- 10. Lemon--citrus limonium
+- Lemon--citrus limonium
  
   The seedlings are now four weeks.
  
