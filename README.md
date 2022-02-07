@@ -65,8 +65,7 @@ Feel free to help adding valuable information into this repository,
  starting with a detailed [feature-issue-request](https://github.com/chardso/fruit-culture-fruit-farming/issues)
 
 
-# FACTORS CONSIDERED IN ESTABLISHING 
-ANUSERY BED.
+# FACTORS CONSIDERED IN ESTABLISHING A NUSERY BED.
   
   - size of land
   
