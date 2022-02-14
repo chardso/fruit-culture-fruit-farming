@@ -222,9 +222,9 @@ The following are tips on how to plant jack fruits.
   for planting making five weeks on 5/12/2020
 # managment of nursery beds
     
-    • Sowing may be dry seeding. 
+- Sowing may be dry seeding. 
      
-     Seeds may be covered with sand and finely powdered farm yard manure.
+Seeds may be covered with sand and finely powdered farm yard manure.
 
 
 Seed Rate, Quality and Treatment
@@ -232,22 +232,17 @@ Seed Rate, Quality and Treatment
 # seed rate  )
 1.SRI method, 
   
-      - 7-8 kg/ha (for all varieties and hybrids
+- 7-8 kg/ha (for all varieties and hybrids
 
 2. Conventional method
-    
-     - 30 kg for long duration varieties
-    
-     - 40 kg for medium duration varieties
-    
-     - 60 kg for short duration varieties
-      
-     - 20 kg for Hybrids
+- 30 kg for long duration varieties
+- 40 kg for medium duration varieties
+- 60 kg for short duration varieties
+- 20 kg for Hybrids
 
 # seed quality
-    • Healthy and vigorous seedlings are the bases for better crop growth and yield.
-    
-    • Vigorous seedlings produced in the nursery will be able to withstand pest attack in the main field. 
+- Healthy and vigorous seedlings are the bases for better crop growth and yield.
+- Vigorous seedlings produced in the nursery will be able to withstand pest attack in the main field. 
 
 # Seeds intended for sowing should satisfy the following requirements :
     
