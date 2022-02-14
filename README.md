@@ -242,6 +242,18 @@ Seed Rate, Quality and Treatment
 
 # seed quality
 
+[Seedquality]()
+
+
+
+
+
+
+
+
+
+
+
 - Healthy and vigorous seedlings are the bases for better crop growth and yield.
 
 - Vigorous seedlings produced in the nursery will be able to withstand pest attack in the main field. 
