@@ -242,7 +242,7 @@ Seed Rate, Quality and Treatment
 
 # seed quality
 
-[Seedquality]()
+![Seedquality]()
 
 
 
