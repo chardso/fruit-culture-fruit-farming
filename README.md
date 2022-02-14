@@ -277,8 +277,8 @@ Seed Rate, Quality and Treatment
 
 
 
-## Seed treatment
-#  types
+# Seed treatment
+## types
 - Wet seed treatment
     
 - Dry seed treatment
@@ -366,8 +366,8 @@ seedling if soil is heavy clay
 - Attacked plants are reduced to stumps.  Nurseries situated in ill-drained marshy areas attacked earlier than dry ground.
 - Damage is severe during July to September.
 
-## Identification of insect pest
-# Egg:  
+# Identification of insect pest
+## Egg:  
 - Eggs are spherical and creamy in colour, which are laid in a group covered over with grey hairs.
 # Larva:  
 - The caterpillars are light green with yellowish white lateral and dorsal stripes in the early stage and later become dark brown or grayish green in colour with a crescent (Semi-circular) shaped black spot on the side of each segment.
@@ -376,8 +376,8 @@ seedling if soil is heavy clay
 # Adult:  
 - The adult moth is medium sized, stout built dark brown with a conspicuous triangular black spot on the forewings.  Hind wings are brownish white with thin black margins.
 
-## Management strategies
-# Cultural control
+# Management strategies
+## Cultural control
 - Flood the nursery to expose the hiding larvae to the surface and thus they are picked up by birds.
 - Apply kerosene to water to suffocate and kill the larvae.
 - Allow the ducks into the field to feed the larvae.
@@ -385,8 +385,8 @@ seedling if soil is heavy clay
 - Drain the water from the nursery and spray chlorpyriphos 20 EC 80 ml
 
 
-## Thrips (Stenchaetothrips biformis)
-# Symptom of damage
+# Thrips (Stenchaetothrips biformis)
+## Symptom of damage
 - The crop is highly susceptible in the nursery stage for the first 23-25 days after transplanting/sowing.
 - The tips of leaves get rolled longitudinally into needle like outgrowths and turn whitish.
 - In severe cases, the lower leaves also turn yellowish.
@@ -398,8 +398,8 @@ seedling if soil is heavy clay
 
 - Both the adults and nymphs lacerate the tender leaves and suck up the plant sap.  As a result fine yellowish lines or silvery streaks are seen on the leaves.  Later, the leaves curl longitudinally and begin to dry from the tip downwards.  In sever cases, the entire nursery may dry up and fail to produce seedling.  Sometimes transplanted crop is also affected in the early stages.
 
-## Life stages
-# Egg:  
+# Life stages
+## Egg:  
 - Eggs laid singly in the tissues of the tender leaves on the sides facing the stem.  Eggs are hyaline and turn pale yellow as they mature.
 # Nymph: 
 - Newly hatched nymphs are transparent but turn yellowish white after the first moult and possess darker legs, head and antennae.
@@ -410,8 +410,8 @@ seedling if soil is heavy clay
 - Male is smaller, more slender than female. 
 - It reproduces partheno-genetically since males are seldom seen in the population.
 
-## Management strategies
-# Cultural control
+# Management strategies
+## Cultural control
 - Submerge infested crops intermittently for 1-2 days.
 - Drag a wet cloth on the seedlings.
 # Chemical control
@@ -443,65 +443,69 @@ Both nymphs and adults suck the plant sap from the leaf and leaf sheath. 
 - Male insect has a black spot in middle of the forewings that is absent in females.  The insect is active during July to September.
    4.Longevity: Females live for 50-55 days.
 
-Management strategies :
+# Management strategies :
 
- Cultural control
-    • Use resistant varieties like IR 50, CR 1009, Co 46, PTB 2 and PTB 18. Nursery should not be raised near the lamp posts.
-    • Apply neem cake @ 12.5 Kg/20 cent nursery as basal dose.
+ ## Cultural control
+- Use resistant varieties like IR 50, CR 1009, Co 46, PTB 2 and PTB 18. Nursery should not be raised near the lamp posts.
+- Apply neem cake @ 12.5 Kg/20 cent nursery as basal dose.
  
 
-Chemical control
-    • Spray anyone of the following herbicide: Carbofuran 3 G 3.5 kg (or) Phorate 10 G 1.0 kg (or) Quinalphos 5 G 2.0 kg
+# Chemical control
+- Spray anyone of the following herbicide: Carbofuran 3 G 3.5 kg (or) Phorate 10 G 1.0 kg (or) Quinalphos 5 G 2.0 kg
 
 
-Rice Caseworm (Case Worm, Nymphula depunctalis (Guen.), Pyraustidae, Lepidoptera)
-Symptom of damage
-    • Caterpillars feed on green tissues of the leaves and leave become whitish papery.
-    • Tubular cases around the tillers by cutting the apical portion of leaves.
-    • Floating of tubular cases on the water.
+- Rice Caseworm (Case Worm, Nymphula depunctalis (Guen.), Pyraustidae, Lepidoptera)
+# Symptom of damage
+- Caterpillars feed on green tissues of the leaves and leave become whitish papery.
+- Tubular cases around the tillers by cutting the apical portion of leaves.
+- Floating of tubular cases on the water.
 
-Nature of damage    
-     The caterpillar cuts a piece of leaf roll it longitudinally into a tubular structure and remains inside.  It feeds by scraping the green tissue of the leaf.  The cases often float in the water. 
+# Nature of damage    
+- The caterpillar cuts a piece of leaf roll it longitudinally into a tubular structure and remains inside.  It feeds by scraping the green tissue of the leaf.  The cases often float in the water. 
 
-Identification of insect pest
-    • Egg:  Eggs are light yellow, disc like, smooth and irregular in shape.  They are laid on the underside of the leaves floating on the water.
-    • Larva: Pale translucent green with orange head. It has filamentous gills on the sides of the body that helps to lead a semi aquatic life
-    • Pupa:  It pupates inside the leaf case. Fresh pupae are milky white, which gradually turn to light yellow.
-    • Adult:  Moth is delicate white moth with pale brown wavy markings. The adult is a small delicate moth having white wings speckled with pale brown wavy markings.  Females are larger than males.  Egg laying takes place in the night.
+# Identification of insect pest
+## Egg:  
+- Eggs are light yellow, disc like, smooth and irregular in shape.  They are laid on the underside of the leaves floating on the water.
+## Larva: 
+- Pale translucent green with orange head. It has filamentous gills on the sides of the body that helps to lead a semi aquatic life
+## Pupa:  
+- It pupates inside the leaf case. Fresh pupae are milky white, which gradually turn to light yellow.
+## Adult:  
+- Moth is delicate white moth with pale brown wavy markings. 
+- The adult is a small delicate moth having white wings speckled with pale brown wavy markings.  Females are larger than males.  Egg laying takes place in the night.
 
- Management strategies
- Cultural control
-    • Mix 250 ml of kerosene to the standing water
-    • Dislodge the cases by passing a rope and drain water
-    • Collect the cases and destroy
+ # Management strategies
+ ##Cultural control
+- Mix 250 ml of kerosene to the standing water
+- Dislodge the cases by passing a rope and drain water
+- Collect the cases and destroy
 
-Chemical control
-    • Spray any one of the following herbicide : Monocrotophos 36 SL 40 ml (or) Quinalphos 25 EC 80 ml.
+# Chemical control
+- Spray any one of the following herbicide : 
+- Monocrotophos 36 SL 40 ml (or) Quinalphos 25 EC 80 ml.
 
+## Nursery Diseases
+# Blast 
+- Pyricularia oryzea
+# Brown spot 
+- Drechslera oryzae (Cochliobolus miyabean)
+# Rice Tungro virus disease
+- Rice tungro  Bacilliform virus
+-Rice tungro Spherical virus
+# Rice blast (Pyricularia oryzea)
+## Symptom of damage
+- Disease can infect paddy at all growth stages and all aerial parts of plant (Leaf, neck and node).
+- Small specks originate on leaves - subsequently enlarge into spindle shaped spots(0.5 to 1.5cm length, 0.3 to 0.5cm width) with ashy center.
+- Several spots coalesce and form big irregular patches
 
-
-
-
-Nursery Diseases
-    • Blast - Pyricularia oryzea
-    • Brown spot - Drechslera oryzae (Cochliobolus miyabean)
-    • Rice Tungro virus disease
-   (i)Rice tungro  Bacilliform virus
-  (ii) Rice tungro Spherical virus
-Rice blast (Pyricularia oryzea)
-Symptom of damage
-    • Disease can infect paddy at all growth stages and all aerial parts of plant (Leaf, neck and node).
-    • Small specks originate on leaves - subsequently enlarge into spindle shaped spots(0.5 to 1.5cm length, 0.3 to 0.5cm width) with ashy center.
-    • Several spots coalesce and form big irregular patches
-
-Management Strategies
-    • Avoid excess N - fertilizer application
-    • Use of tolerant varieties ( Palghuna, Swarnamukhi, Swathi, Prabhat, Co 47,
-IR - 64, IR - 36, Jaya)
-    • Dry seed treatment with Pseudomonas fluorescens talc formulation @10g/kg of seed.
-    • Stagnate water to a depth of 2.5 cm in the nursery. Sprinkle 2.5 kg of P. fluorescens (talc) and mix with stagnated water. Soak the root system of seedlings for 30 min and transplant.
-    • Seed treatment at 2.0 g/kg seed with Captan or Carbendazim or Thiram or Tricyclazole.
-    • Spraying of Tricyclazole at 1g/lit of water or Edifenphos at 1 ml/lit of water or Carbendazim at 1.0 gm/lit.
+# Management Strategies
+- Avoid excess N - fertilizer application
+- Use of tolerant varieties ( Palghuna, Swarnamukhi, Swathi, Prabhat, Co 47,
+# IR - 64, IR - 36, Jaya)
+- Dry seed treatment with Pseudomonas fluorescens talc formulation @10g/kg of seed.
+- Stagnate water to a depth of 2.5 cm in the nursery. Sprinkle 2.5 kg of P. fluorescens (talc) and mix with stagnated water. Soak the root system of seedlings for 30 min and transplant.
+- Seed treatment at 2.0 g/kg seed with Captan or Carbendazim or Thiram or Tricyclazole.
+- Spraying of Tricyclazole at 1g/lit of water or Edifenphos at 1 ml/lit of water or Carbendazim at 1.0 gm/lit.
 
 ToBrown Spot : Helminthosporium oryzae
 Also called as sesame leaf spot (or) Helminthosporiose (or ) fungal blight
