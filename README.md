@@ -349,74 +349,84 @@ seedling if soil is heavy clay
      
 - Apply pre-emergence herbicides viz., Pretilachlor + safener @ 0.3kg/ha, on 3rd or 4th day after sowing to control weeds in the lowland nursery.  Grown up weeds may be removed by manually.
  
-Pest Management Nursery pest :
+# Pest Management Nursery pest :
 
-1. Army worm (Spodoptera mauritia)
-2. Thrips (Stenchaetothrips biformis)
-3. Green leafhopper (Nephotettix nigropictus, N. cincticeps, N. virescens)
-4. Caseworm (Nymphula depunctalis) Army worm (Spodoptera mauritia)
-Symptom of damage
-    • Larvae cut the seedlings in large scale
-    • Severe infestation - cattle grazing appearance to the field.
-    • They feed gregariously and march from field to field.
+- Army worm (Spodoptera mauritia)
+- Thrips (Stenchaetothrips biformis)
+- Green leafhopper (Nephotettix nigropictus, N. cincticeps, N. virescens)
+- Caseworm (Nymphula depunctalis) Army worm (Spodoptera mauritia)
+# Symptom of damage
+- Larvae cut the seedlings in large scale
+- Severe infestation - cattle grazing appearance to the field.
+- They feed gregariously and march from field to field.
 
-Nature of damage
-    • Caterpillars march in large numbers in the evening hours and feed on the leaves of paddy seedlings till the morning and hide during daytime.
-    • They feed gregariously and after feeding the plants in one field march onto the next field.  Under severe infestation crop gives the grazed appearance.
-    • Attacked plants are reduced to stumps.  Nurseries situated in ill-drained marshy areas attacked earlier than dry ground.
-    •  Damage is severe during July to September.
+#:Nature of damage
+- Caterpillars march in large numbers in the evening hours and feed on the leaves of paddy seedlings till the morning and hide during daytime.
+- They feed gregariously and after feeding the plants in one field march onto the next field.  Under severe infestation crop gives the grazed appearance.
+- Attacked plants are reduced to stumps.  Nurseries situated in ill-drained marshy areas attacked earlier than dry ground.
+- Damage is severe during July to September.
 
-Identification of insect pest
-    • Egg:  Eggs are spherical and creamy in colour, which are laid in a group covered over with grey hairs.
-    • Larva:  The caterpillars are light green with yellowish white lateral and dorsal stripes in the early stage and later become dark brown or grayish green in colour with a crescent (Semi-circular) shaped black spot on the side of each segment.
-    • Pupa: They pupate inside the soil in earthen cocoons.  Pupa is dark brown and measures 16 -17mm long.
-    • Adult:  The adult moth is medium sized, stout built dark brown with a conspicuous triangular black spot on the forewings.  Hind wings are brownish white with thin black margins.
+## Identification of insect pest
+# Egg:  
+- Eggs are spherical and creamy in colour, which are laid in a group covered over with grey hairs.
+# Larva:  
+- The caterpillars are light green with yellowish white lateral and dorsal stripes in the early stage and later become dark brown or grayish green in colour with a crescent (Semi-circular) shaped black spot on the side of each segment.
+# Pupa: 
+- They pupate inside the soil in earthen cocoons.  Pupa is dark brown and measures 16 -17mm long.
+# Adult:  
+- The adult moth is medium sized, stout built dark brown with a conspicuous triangular black spot on the forewings.  Hind wings are brownish white with thin black margins.
 
-Management strategies
-Cultural control
-    • Flood the nursery to expose the hiding larvae to the surface and thus they are picked up by birds.
-    • Apply kerosene to water to suffocate and kill the larvae.
-    • Allow the ducks into the field to feed the larvae.
-Chemical control:
-    • Drain the water from the nursery and spray chlorpyriphos 20 EC 80 ml
-
-
-Thrips (Stenchaetothrips biformis)
-Symptom of damage
-    • The crop is highly susceptible in the nursery stage for the first 23-25 days after transplanting/sowing.
-    • The tips of leaves get rolled longitudinally into needle like outgrowths and turn whitish.
-    • In severe cases, the lower leaves also turn yellowish.
-    • The infestation may be rated as mild, if there is less than three needle like leaves and as severe, if there are more than three outgrowths with the lower leaves also showing chlorosis and scorching.
-    • The infestation invariably disappears after sharp showers.
+## Management strategies
+# Cultural control
+- Flood the nursery to expose the hiding larvae to the surface and thus they are picked up by birds.
+- Apply kerosene to water to suffocate and kill the larvae.
+- Allow the ducks into the field to feed the larvae.
+# Chemical control:
+- Drain the water from the nursery and spray chlorpyriphos 20 EC 80 ml
 
 
-Nature of damage:
-
-      Both the adults and nymphs lacerate the tender leaves and suck up the plant sap.  As a result fine yellowish lines or silvery streaks are seen on the leaves.  Later, the leaves curl longitudinally and begin to dry from the tip downwards.  In sever cases, the entire nursery may dry up and fail to produce seedling.  Sometimes transplanted crop is also affected in the early stages.
-
-Life stages
-    • Egg:  Eggs laid singly in the tissues of the tender leaves on the sides facing the stem.  Eggs are hyaline and turn pale yellow as they mature.
-    • Nymph: Newly hatched nymphs are transparent but turn yellowish white after the first moult and possess darker legs, head and antennae.
-    • Pupa:  Pupation takes place inside the rolled leaves and appendages and wings are clearly visible.
-    • Adult:  Adult is 1mm long, dark brown to black in colour with fringed wings.  Male is smaller, more slender than female.  It reproduces partheno-genetically since males are seldom seen in the population.
-
-Management strategies
- Cultural control
-    • Submerge infested crops intermittently for 1-2 days.
-    • Drag a wet cloth on the seedlings.
-Chemical control
-    • Phosphamidon 40SL 50ml (or) Monocrotophos 36SL 40ml
-    • 
-Biological control
-    • Predatory thrips, coccinellid beetles, anthocorid bugs, and staphylinid beetles are biological control agents that feed on both the larvae and adults.
+## Thrips (Stenchaetothrips biformis)
+# Symptom of damage
+- The crop is highly susceptible in the nursery stage for the first 23-25 days after transplanting/sowing.
+- The tips of leaves get rolled longitudinally into needle like outgrowths and turn whitish.
+- In severe cases, the lower leaves also turn yellowish.
+- The infestation may be rated as mild, if there is less than three needle like leaves and as severe, if there are more than three outgrowths with the lower leaves also showing chlorosis and scorching.
+- The infestation invariably disappears after sharp showers.
 
 
-Green leafhopper (Nephotettix nigropictus, N. cincticeps, N. virescens)
-Symptom of damage
-    • Yellowing of leaves from tip to downwards.
-    • Vector for the diseases viz., Rice tungro virus, rice yellow & transitory yellowing.
+# Nature of damage:
 
-Nature of damage
+- Both the adults and nymphs lacerate the tender leaves and suck up the plant sap.  As a result fine yellowish lines or silvery streaks are seen on the leaves.  Later, the leaves curl longitudinally and begin to dry from the tip downwards.  In sever cases, the entire nursery may dry up and fail to produce seedling.  Sometimes transplanted crop is also affected in the early stages.
+
+## Life stages
+# Egg:  
+- Eggs laid singly in the tissues of the tender leaves on the sides facing the stem.  Eggs are hyaline and turn pale yellow as they mature.
+# Nymph: 
+- Newly hatched nymphs are transparent but turn yellowish white after the first moult and possess darker legs, head and antennae.
+# Pupa:  
+- Pupation takes place inside the rolled leaves and appendages and wings are clearly visible.
+# Adult:  
+- Adult is 1mm long, dark brown to black in colour with fringed wings.  
+- Male is smaller, more slender than female. 
+- It reproduces partheno-genetically since males are seldom seen in the population.
+
+## Management strategies
+# Cultural control
+- Submerge infested crops intermittently for 1-2 days.
+- Drag a wet cloth on the seedlings.
+# Chemical control
+- Phosphamidon 40SL 50ml (or) Monocrotophos 36SL 40ml
+    
+# Biological control
+- Predatory thrips, coccinellid beetles, anthocorid bugs, and staphylinid beetles are biological control agents that feed on both the larvae and adults.
+
+
+- Green leafhopper (Nephotettix nigropictus, N. cincticeps, N. virescens)
+# Symptom of damage
+- Yellowing of leaves from tip to downwards.
+- Vector for the diseases viz., Rice tungro virus, rice yellow & transitory yellowing.
+
+# Nature of damage
 Both nymphs and adults suck the plant sap from the leaf and leaf sheath. 
 
  Mild infestation reduces the vigour of the plant and the number of reproductive tillers.  Heavy infestation causes withering and complete drying of the crop.  Plants are predisposed to fungal and bacterial infection through feeding and ovipositional  punctures.  .  It also transmits plant diseases such as dwarf, transitory yellowing, yellow dwarf and rice tungro virus (Tungro is transmitted during short feeding period).
