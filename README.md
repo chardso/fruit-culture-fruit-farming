@@ -509,9 +509,13 @@ Symptoms
     • Discoloration begins from leaf tip and extends down to the blade or the lower leaf portion
 
 Management Strategies
+    
     • Set up light traps to monitoring and attract vectors.
+    
     • Leaf yellowing can be minimized by spraying 2% urea mixed with Mancozeb at 2.5 gm/lit.
+    
     • Grow tolerant varieties are Co 45, Co 48, Surekha, Vikramarya, Bharani, IR 36. 
+    
     • In nursery when virus infection is low, apply Carbofuran granules @ 1 kg a.i./ha to control vector population.
 
 
@@ -520,54 +524,76 @@ Management Strategies
 
 
 
-Nursery Management
+# Nursery Management
 
 Types and Preparation
-            1. Wet nursery
-            2. Dapog or Mat Nursery
-            3. Dry nursery
-Wet Nursery Nursery area
+            
+            1. Wet nursery
+            
+            2. Dapog or Mat Nursery
+            
+            3. Dry nursery
+# Wet Nursery Nursery area
+    
     • Select 20 cents (800 m2) of land area near to water source for transplanting one hectare in conventional method.
+    
     • Required nursery area for SRI is 100 m2 / ha  (or) 2.5 cent / ha  (or) 1cent / acre
 
  
-Nursery bed preparation
+# Nursery bed preparation
+    
     • The area should have an assured water supply and an efficient drainage system.
+    
     • It should be dry ploughed twice and apply 1tonne of FYM or compost to 20cents nursery.
+    
     • Later, it should be irrigated and allowed to be wet for another two days.
+    
     • Afterwards it should be puddled twice and the puddling may be repeated after a gap of one week.
+    
     • Basal application of DAP 40kg is recommended when the seedlings are to be pulled out in 20-25 days after sowing in less fertile nursery soils, and if not readily available, apply straight fertilizers 16kg of urea and 120kg of super phosphate.
+    
     • After levelling and final puddling, beds of convenient length (8-10 m) with width of 2.5 m are to be made, leaving 30 - 50 cm channels in between two beds.
+    
     • Sow the sprouted seeds uniformly on the seedbed.
-Top
 
 
-Dapog / Mat Nursery
+# Dapog / Mat Nursery
           In Mat nursery seedlings are established in a layer of soil mix, arranged on a firm surface (Concrete floor/ polythene sheet/ seedling trays). Seedlings are ready for planting within 14-20 days after seeding (DAS).
 Nursery area
 Required nursery area is 100 m2 / ha  (or) 2.5 cent / ha – 1cent / acre
 
 
 
-Nursery bed preparation
-Select a level area near the water source with efficient drainage system. The surface should be covered with banana leaves with the mid-rib removed or polyethylene sheets or any flexible material or cemented floors to prevent seedling roots from penetrating to the bottom soil layer.
+#  nursery bed preparation
 
-a. Preparation of soil mixture
+- Select a level area near the water source with efficient drainage system. 
+
+- The surface should be covered with banana leaves with the mid-rib removed or polyethylene sheets or any flexible material or cemented floors to prevent seedling roots from penetrating to the bottom soil layer.
+
+ 1. Preparation of soil mixture
            Four (4) m3 of soil mix is needed for each 100 m2 of nursery.  Mix 70% soil + 20% well-decomposed pressmud / bio-gas slurry / FYM + 10% rice hull.  Incorporate 1.5kg of powdered di-ammonium phosphate or 2kg 17-17-17 NPK fertilizer with the soil mixture.
 
-b. Filling the soil mixture
+
+  2. Filling the soil mixture
            Place a wooden frame of 0.5 m long, 1 m wide and 4 cm deep divided into 4 equal segments on the plastic sheet or banana leaves, fill the frame almost to the top with the soil mixture.
 
-c. Pre-germinating the seeds
+  3. Pre-germinating the seeds
           Soak the seeds for 24 hrs, drain and incubate the soaked seeds for 24 hrs, sow when the seeds sprout and radicle (seed root) grows to 2-3 mm long and cover them with dry soil to a thickness of 5mm. 
 
-Dry Nursery Nursery area
+# Dry Nursery Nursery area
+    
     • Area : 20cents
+    
     • This type of nursery is handy in times of delayed receipt of canal water or areas where sufficient water is not available.
-Nursery bed preparation
+
+# Nursery bed preparation
+    
     • The field is dry ploughed 5-6 times to acquire the fine tilth.
+    
     • Nursery area with sand and loamy soil status is more suitable for this type of nursery.
+    
     • Plots of 1 to 1.5 m bed width and channels may be formed. Length may be according to the slope and soil.
+    
     • After preparing the beds they are to be wetted and 1 tonne of FYM, 2.5 kg of P2O5 and 2 kg of potash need to be applied.
       
 
