@@ -582,13 +582,13 @@ Required nursery area is 100 m2 / ha  (or) 2.5 cent / ha – 1cent / acre
 
 
 
-#  nursery bed preparation
+# nursery bed preparation
 
 - Select a level area near the water source with efficient drainage system. 
 
 - The surface should be covered with banana leaves with the mid-rib removed or polyethylene sheets or any flexible material or cemented floors to prevent seedling roots from penetrating to the bottom soil layer.
 
-#Preparation of soil mixture
+# Preparation of soil mixture
 
 - Four (4) m3 of soil mix is needed for each 100 m2 of nursery.  Mix 70% soil + 20% well-decomposed pressmud / bio-gas slurry / FYM + 10% rice hull.  Incorporate 1.5kg of powdered di-ammonium phosphate or 2kg 17-17-17 NPK fertilizer with the soil mixture.
 
