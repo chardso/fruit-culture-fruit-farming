@@ -221,57 +221,88 @@ The following are tips on how to plant jack fruits.
  The jackfruit seedlings are now visible ready 
   for planting making five weeks on 5/12/2020
 # managment of nursery beds
-    • Sowing may be dry seeding. Seeds may be covered with sand and finely powdered farm yard manure.
+    
+    • Sowing may be dry seeding. 
+     
+     Seeds may be covered with sand and finely powdered farm yard manure.
 
 
 Seed Rate, Quality and Treatment
 
 # seed rate  )
 1.SRI method, 
-  -7-8 kg/ha (for all varieties and hybrids
+  
+      - 7-8 kg/ha (for all varieties and hybrids
+
 2. Conventional method
-    •    - 30 kg for long duration varieties
-    •    - 40 kg for medium duration varieties
-    •    - 60 kg for short duration varieties
-    •    - 20 kg for Hybrids
+    
+     - 30 kg for long duration varieties
+    
+     - 40 kg for medium duration varieties
+    
+     - 60 kg for short duration varieties
+      
+     - 20 kg for Hybrids
 
 # seed quality
     • Healthy and vigorous seedlings are the bases for better crop growth and yield.
+    
     • Vigorous seedlings produced in the nursery will be able to withstand pest attack in the main field. 
-Seeds intended for sowing should satisfy the following requirements :
+
+# Seeds intended for sowing should satisfy the following requirements :
+    
     • The seed should belong to the proper variety, which is proposed to be grown.
+    
     • The seed should be clean and free from mixtures of other seeds.
+    
     • The seed should be mature, well developed and plump in size.
+    
     • The seed should be free from obvious signs of age or bad storage
+    
     • The seed should have a high germinating capacity.
       Before sowing, the seed should be treated with fungicides which protects the seed against soil-born fungi and also give a boost to the seedlings.
-Upgradation of seed quality using salt solution
+
+# Upgradation of seed quality using salt solution
+    
     • Ten litre of water is taken in a plastic bucket of 15 litre capacity and a good quality fresh egg is dropped in the water and the egg sinks in water and reaches the bottom.
+    
     • The commercial grade common salt is added little by little and dissolved in water. As the density of salt solution increases, the egg raise up.
+    
     • The addition of salt (Sodium chloride) is stopped when the surface of the egg  is visible above the solution.
+    
     • To this salt solution add 10kg of seeds.   
+    
     • The seeds with low density float on the surface of the solution.
+    
     • The seeds floating on the surface of the solution are removed.
+    
     • The seeds sunk in the solution are washed for 2-3 times in water and then used.
 
 
 
 # Seed treatment
- types
+#  types
     •  -Wet seed treatment
+    
     •  -Dry seed treatment
 
- -Wet seed treatment :
+ # Wet seed treatment :
+    
     • Treat the seeds in Carbendazim or Pyroquilon or Tricyclozole solution at 2 gm/lit of water for 1 kg of seeds for 10 hrs and drain excess water.
+    
     • This wet seed treatment gives protection to the seedlings up to 40 days from seedling disease such as blast. If the seeds are required for sowing immediately, keep the soaked seed in gunny bag in dark room for 24hrs for sprouting.
+    
     • Seed treatment with Pseudomonas fluorescens:
 Treat the seeds with Pseudomonas fluorescens 10gm/kg and soak in 1 lit of water overnight. Decant the excess water and allow the seeds to sprout for 24 hrs and then sow.
+    
     • Seed treatment with Azospirillum:
 Three packets (600 g/ha) of Azospirillum and 3 packets (600g/ha) of Phosphobacteria or 6 packets (1200g/ha) of Azophophirillum bioinoculants mixed with sufficient water.
+    
     • Biocontrol agents are compatible with biofertilizers, so it can be mixed together for seed soaking. Fungicides and biocontrol agents are incompatible.
 
-Dry seed treatment :
-       Seed treatment with Fungicide:  Mix the seeds with Captan or Thiram 24 hrs before sowing @ 4g/kg of seed. This dry seed treatment gives protection to the seedlings up to 40 days from seedling disease such as blast.
+# Dry seed treatment :
+      
+ # Seed treatment with Fungicide:  Mix the seeds with Captan or Thiram 24 hrs before sowing @ 4g/kg of seed. This dry seed treatment gives protection to the seedlings up to 40 days from seedling disease such as blast.
 
 
 Management strategies
