@@ -277,72 +277,77 @@ Seed Rate, Quality and Treatment
 
 
 
-# Seed treatment
+## Seed treatment
 #  types
-    •  -Wet seed treatment
+- Wet seed treatment
     
-    •  -Dry seed treatment
+- Dry seed treatment
 
  # Wet seed treatment :
     
-    • Treat the seeds in Carbendazim or Pyroquilon or Tricyclozole solution at 2 gm/lit of water for 1 kg of seeds for 10 hrs and drain excess water.
+- Treat the seeds in Carbendazim or Pyroquilon or Tricyclozole solution at 2 gm/lit of water for 1 kg of seeds for 10 hrs and drain excess water.
     
-    • This wet seed treatment gives protection to the seedlings up to 40 days from seedling disease such as blast. If the seeds are required for sowing immediately, keep the soaked seed in gunny bag in dark room for 24hrs for sprouting.
+- This wet seed treatment gives protection to the seedlings up to 40 days from seedling disease such as blast. If the seeds are required for sowing immediately, keep the soaked seed in gunny bag in dark room for 24hrs for sprouting.
     
-    • Seed treatment with Pseudomonas fluorescens:
-Treat the seeds with Pseudomonas fluorescens 10gm/kg and soak in 1 lit of water overnight. Decant the excess water and allow the seeds to sprout for 24 hrs and then sow.
+- Seed treatment with Pseudomonas fluorescens:
+
+- Treat the seeds with Pseudomonas fluorescens 10gm/kg and soak in 1 lit of water overnight. Decant the excess water and allow the seeds to sprout for 24 hrs and then sow.
     
-    • Seed treatment with Azospirillum:
-Three packets (600 g/ha) of Azospirillum and 3 packets (600g/ha) of Phosphobacteria or 6 packets (1200g/ha) of Azophophirillum bioinoculants mixed with sufficient water.
+# Seed treatment with Azospirillum:
+
+- Three packets (600 g/ha) of Azospirillum and 3 packets (600g/ha) of Phosphobacteria or 6 packets (1200g/ha) of Azophophirillum bioinoculants mixed with sufficient water.
     
-    • Biocontrol agents are compatible with biofertilizers, so it can be mixed together for seed soaking. Fungicides and biocontrol agents are incompatible.
+- Biocontrol agents are compatible with biofertilizers, so it can be mixed together for seed soaking. Fungicides and biocontrol agents are incompatible.
 
 # Dry seed treatment :
       
- # Seed treatment with Fungicide:  Mix the seeds with Captan or Thiram 24 hrs before sowing @ 4g/kg of seed. This dry seed treatment gives protection to the seedlings up to 40 days from seedling disease such as blast.
+- Seed treatment with Fungicide:  Mix the seeds with Captan or Thiram 24 hrs before sowing @ 4g/kg of seed. This dry seed treatment gives protection to the seedlings up to 40 days from seedling disease such as blast.
 
 
-Management strategies
-Nursery Management Timetable
+# Management strategies
+
+- Nursery Management Timetable
 Days
 Operations
 3-5
-Weed management (if needed)
+- Weed management (if needed)
 10-20
-Pest / disease management practices
+# Pest / disease management practices
 15
-Apply DAP 40 kg, if DAP is not applied as basal dose
+- Apply DAP 40 kg, if DAP is not applied as basal dose
 25-35
-    • Pulling out the seedlings.
-    • Short duration (25 days).
-    • Medium duration (30 days).
-    • Long duration (35 days).
-    • SRI (14 Days).
-* Apply 20 kg gypsum a day before pulling out of
+- Pulling out the seedlings.
+- Short duration (25 days).
+- Medium duration (30 days).
+- Long duration (35 days).
+- SRI (14 Days).
+- Apply 20 kg gypsum a day before pulling out of
 seedling if soil is heavy clay
 
 
-Water MangementWet Method
-    • Drain the water 18 to 24hrs after sowing
-    • Allow enough water to saturate the soil from 3rd to 5th day. From 5th day onwards, increase the water depth to 1.5cm depending on the height of the seedlings.
-    • Thereafter maintain 2.5cm depth of water.
+# Water MangementWet Method
+- Drain the water 18 to 24hrs after sowing
+- Allow enough water to saturate the soil from 3rd to 5th day. From 5th day onwards, increase the water depth to 1.5cm depending on the height of the seedlings.
+- Thereafter maintain 2.5cm depth of water.
 
-Mat Nursery Method
-    • Water the nursery with rose can as and when needed (twice or thrice a day) to keep the soil moist.
-    • At 6 DAS, maintain thin film of water all round the seedling mats. 
-Dry method
-    • Irrigation may be done to wet the soil to saturation.
+# Mat Nursery Method
+- Water the nursery with rose can as and when needed (twice or thrice a day) to keep the soil moist.
+- At 6 DAS, maintain thin film of water all round the seedling mats. 
+# Dry method
+- Irrigation may be done to wet the soil to saturation.
 
-Nutrient Management Wet method
-    • If seedlings are to be pulled out after 25 days, application of DAP is to be done 10 days prior to pulling.
-    • 4kg of gypsum and 1kg of DAP per cent can be applied for clay soil on 10th day after sowing.
-Mat nursery method
-    Though the temperature and water are adequate, the seedlings show yellowing
-    (N deficiency). Sprinkle seedlings with 0.5% urea (1.5 kg Urea in 300 l water/100      m2).
+# Nutrient Management Wet method
+- If seedlings are to be pulled out after 25 days, application of DAP is to be done 10 days prior to pulling.
+- 4kg of gypsum and 1kg of DAP per cent can be applied for clay soil on 10th day after sowing.
+# Mat nursery method
+- Though the temperature and water are adequate, the seedlings show yellowing
+    (N deficiency). 
+- Sprinkle seedlings with 0.5% urea (1.5 kg Urea in 300 l water/100      m2).
 
 
-Weed Management
-     Apply pre-emergence herbicides viz., Pretilachlor + safener @ 0.3kg/ha, on 3rd or 4th day after sowing to control weeds in the lowland nursery.  Grown up weeds may be removed by manually.
+# Weed Management
+     
+- Apply pre-emergence herbicides viz., Pretilachlor + safener @ 0.3kg/ha, on 3rd or 4th day after sowing to control weeds in the lowland nursery.  Grown up weeds may be removed by manually.
  
 Pest Management Nursery pest :
 
