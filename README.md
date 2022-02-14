@@ -241,37 +241,39 @@ Seed Rate, Quality and Treatment
 - 20 kg for Hybrids
 
 # seed quality
+
 - Healthy and vigorous seedlings are the bases for better crop growth and yield.
+
 - Vigorous seedlings produced in the nursery will be able to withstand pest attack in the main field. 
 
 # Seeds intended for sowing should satisfy the following requirements :
     
-    • The seed should belong to the proper variety, which is proposed to be grown.
+- The seed should belong to the proper variety, which is proposed to be grown.
     
-    • The seed should be clean and free from mixtures of other seeds.
+- The seed should be clean and free from mixtures of other seeds.
     
-    • The seed should be mature, well developed and plump in size.
+- The seed should be mature, well developed and plump in size.
     
-    • The seed should be free from obvious signs of age or bad storage
+- The seed should be free from obvious signs of age or bad storage
     
-    • The seed should have a high germinating capacity.
+- The seed should have a high germinating capacity.
       Before sowing, the seed should be treated with fungicides which protects the seed against soil-born fungi and also give a boost to the seedlings.
 
 # Upgradation of seed quality using salt solution
     
-    • Ten litre of water is taken in a plastic bucket of 15 litre capacity and a good quality fresh egg is dropped in the water and the egg sinks in water and reaches the bottom.
+- Ten litre of water is taken in a plastic bucket of 15 litre capacity and a good quality fresh egg is dropped in the water and the egg sinks in water and reaches the bottom.
     
-    • The commercial grade common salt is added little by little and dissolved in water. As the density of salt solution increases, the egg raise up.
+- The commercial grade common salt is added little by little and dissolved in water. As the density of salt solution increases, the egg raise up.
     
-    • The addition of salt (Sodium chloride) is stopped when the surface of the egg  is visible above the solution.
+- The addition of salt (Sodium chloride) is stopped when the surface of the egg  is visible above the solution.
     
-    • To this salt solution add 10kg of seeds.   
+- To this salt solution add 10kg of seeds.   
     
-    • The seeds with low density float on the surface of the solution.
+- The seeds with low density float on the surface of the solution.
     
-    • The seeds floating on the surface of the solution are removed.
+- The seeds floating on the surface of the solution are removed.
     
-    • The seeds sunk in the solution are washed for 2-3 times in water and then used.
+- The seeds sunk in the solution are washed for 2-3 times in water and then used.
 
 
 
