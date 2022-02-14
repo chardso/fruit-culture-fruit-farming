@@ -413,12 +413,18 @@ Nature of damage
 Both nymphs and adults suck the plant sap from the leaf and leaf sheath. 
 
  Mild infestation reduces the vigour of the plant and the number of reproductive tillers.  Heavy infestation causes withering and complete drying of the crop.  Plants are predisposed to fungal and bacterial infection through feeding and ovipositional  punctures.  .  It also transmits plant diseases such as dwarf, transitory yellowing, yellow dwarf and rice tungro virus (Tungro is transmitted during short feeding period).
-
- Life stages
-    • Egg: Greenish transparent eggs are deposited in the midrib of leaf blade or sheath of rice or green grass.  They are laid in batches of 10 to 15 arranged in a single row.
-    • Nymph: The nymphs are soft bodied, yellow white in colour.  Gradually the colour changes to green with five nymphal instars and become adults in 18-20 days.
-    • Adult:  Adults are 3-5 mm long, bright green with variable black markings, wedge shaped with a characteristic diagonal movement.  Male insect has a black spot in middle of the forewings that is absent in females.  The insect is active during July to September.
-    • Longevity: Females live for 50-55 days.
+# Life stages
+ 1.Egg: 
+- Greenish transparent eggs are deposited in the midrib of leaf blade or sheath of rice or green grass.  
+- They are laid in batches of 10 to 15 arranged in a single row.
+ 2. Nymph: 
+- The nymphs are soft bodied, yellow white in colour.  
+- Gradually the colour changes to green with five nymphal instars and become adults in 18-20 days.
+  3. Adult:  
+- Adults are 3-5 mm long, bright green with variable black markings, 
+- wedge shaped with a characteristic diagonal movement.  
+- Male insect has a black spot in middle of the forewings that is absent in females.  The insect is active during July to September.
+   4.Longevity: Females live for 50-55 days.
 
 Management strategies :
 
