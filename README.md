@@ -167,7 +167,7 @@ The following are tips on how to plant jack fruits.
   
   - Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
 
-# CHEMICAL PROPERTIES OF THE SOIL;
+# chemical properties of the soil;
    
   - cation exchange capacity.
   
@@ -192,7 +192,7 @@ The following are tips on how to plant jack fruits.
   - The required pH for fruit farming is from 6-7.5.
 
 
-# SOME SCIENTIFIC NAMES OF CERTAIN FRUITS.
+# some scientific names of certain fruits.
 
 
 - mango-Mangifera indica
