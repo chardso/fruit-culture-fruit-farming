@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+![](https://github.com/chardso/fruit-culture-fruit-farming/blob/%23Asknet-participant-2020-2021/images/fruit-farming-1.jpg)
 
 You can use the [editor on GitHub](https://github.com/chardso/fruit-culture-fruit-farming/edit/%23Asknet-participant-2020-2021/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
