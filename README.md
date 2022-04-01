@@ -1,4 +1,4 @@
-# Intro
+![](images/fruit-farming-1.jpg)
 
 
 # Links
