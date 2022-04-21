@@ -1,4 +1,5 @@
 # fruit-culture (fruitfarming)
+
 **Fruit-culture is the systematic cultivation, propagation or rearing of fruits or fruit trees.
 
 ![](/images/fruit-farming-7.jpg)
@@ -229,7 +230,7 @@ Seeds may be covered with sand and finely powdered farm yard manure.
 
 Seed Rate, Quality and Treatment
 
-# seed rate  )
+# seed rate  
 1.SRI method, 
   
 - 7-8 kg/ha (for all varieties and hybrids
