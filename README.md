@@ -1,7 +1,8 @@
 
 
 # fruit-culture-fruit-farming
-Fruit-culture is the systematic cultivation,propagation or rearing of fruits or fruit trees.in this case we shall propagate seedlings,of fruits from nusery beds,place them in potting bags and donate to communities for planting.aims/objectives,vission ,importance,and other narratives of these repository will be filed in the later stage.
+Fruit-culture is the systematic cultivation,propagation or rearing of fruits or fruit trees.
+
 
 ![](images/fruit-farming-1.jpg)
 
@@ -14,19 +15,19 @@ Fruit-culture is the systematic cultivation,propagation or rearing of fruits or 
 
 
 
-* In this case we shall propagate seedlings, of fruits from nusery beds, place them in potting bags and donate to communities for planting.*
+**In this case we shall propagate seedlings, of fruits from nusery beds, place them in potting bags and donate to communities for planting**
+![](images/fruit-farming-7.jpg)
 
-> Note: aims, objectives, vision, importance and other narratives of this repository will be filed in detaile at a later stage.
+Note: aims, objectives, vision, importance and other narratives of this repository will be filed in detaile at a later stage.
 
- # MOTIVATION
+# MOTIVATION
 
   Here is what influenced me to start this project repository:
 Basing on global research most studies suggest that the optimal amount of fruits is two or five servings per day and there seems to be no harm in eating them instead it contributes too much to the immune system health wise.
 
-** Considering this, fruitplanting will have greate impact to the community.**  
+**Considering this, fruitplanting will have greate impact to the community**
 
-
- # IMPORTANCE.     
+# IMPORTANCE.     
 
  -  people who are eating more fruits as part of their diet are likely to have a reduced risk of some chronic diseases.        
 
@@ -34,11 +35,13 @@ Basing on global research most studies suggest that the optimal amount of fruits
 
  -  most fruits are naturally low in fats, sodium and calories and we know the effects of too much of sodium, fats and calories, as well as the good effects of adding vitamins, so I vote these for my global communities for good health.
 
- # VISION
- My vision is to create a community well sensitised on how fruits are propagated, planted and their importance in a healthy diet.
+# VISION
+ 
+My vision is to create a community well sensitised on how fruits are propagated, planted and their importance in a healthy diet.
 
 # Collection
- healthiest fruits on earth
+ 
+healthiest fruits on earth
 
  -  grape fruits 
 
@@ -61,8 +64,7 @@ Basing on global research most studies suggest that the optimal amount of fruits
  -  orange 
 etc.
 
-  Project "fruitplanting Adjumani Uganda"
-Among the fruits we have potted:
+  Among the fruits we have potted:
 
  -  mangoes 
 
@@ -72,7 +74,7 @@ Among the fruits we have potted:
  we look forward to acquire more.
 
  
-Feel free to help adding valuable information into this repository, 
+**Feel free to help adding valuable information into this repository**
  starting with a detailed [feature-issue-request](https://github.com/chardso/fruit-culture-fruit-farming/issues)
 
 
@@ -90,11 +92,7 @@ ANUSERY BED.
   - availability of market
   
   - accessibility of the area.
-
-
-    
-  
-    # TIPS,
+# TIPS
    
 The following are tips on how to plant jack fruits.
  
@@ -109,8 +107,8 @@ The following are tips on how to plant jack fruits.
   - sow your seeds and gently cover with the soil 
  
   - water to provide moisture and in 6weeks the seeds shall have germinated into healthy seedling.
-   
-   # SOIL TYPE.
+
+# SOIL TYPE
   
   - sandy loam that is granular and porous 
   
@@ -120,8 +118,7 @@ The following are tips on how to plant jack fruits.
   
   - it should be slightly acidic.
 
-
- # MATERIALS;
+# MATERIALS
  
  The following are materials needed setting anurserybed shed;
   
@@ -153,8 +150,7 @@ The following are tips on how to plant jack fruits.
 
  - hose soil,sand and compost.
 
-
-    # PHYSICAL PROPERTIES OF THE SOIL;
+# PHYSICAL PROPERTIES OF THE SOIL
   
   - soil texture,which is referred to as the relative proportion of particles of various sizes such as sand,silt and clay in the soil.  -
  
@@ -172,17 +168,17 @@ The following are tips on how to plant jack fruits.
 
   - atterberg limits(basic measure of critical water contents of fine grained soil,ie
  
-  . it's shrinkage limit
-  . it's plastic limit
-  . liquid limits depending on its water content
+  **it's shrinkage limit**,
+  **it's plastic limit**,and
+  **liquid limits depending on its water content**
  
   
-  - Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
+  - Asoil may appear in one or four states,**solid**,**semisolid**, **plastic** and **liquid**
 
 
 
 
-# CHEMICAL PROPERTIES OF THE SOIL;
+# CHEMICAL PROPERTIES OF THE SOIL
    
   - cation exchange capacity.
   
@@ -205,7 +201,6 @@ The following are tips on how to plant jack fruits.
   - pH falls between 3 and 10 with 7 being neutral.
   
   - The required pH for fruit farming is from 6-7.5.
-
 
 # SOME SCIENTIFIC NAMES OF CERTAIN FRUITS.
 
@@ -233,4 +228,7 @@ The following are tips on how to plant jack fruits.
  
  The jackfruit seedlings are now visible ready 
   for planting making five weeks on 5/12/2020
+
+For more on seeds,weed, nursery bed,fruit diseases,control,and many more open
+[Link](content.md)
 
