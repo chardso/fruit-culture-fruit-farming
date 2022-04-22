@@ -229,3 +229,6 @@ The following are tips on how to plant jack fruits.
  The jackfruit seedlings are now visible ready 
   for planting making five weeks on 5/12/2020
 
+For more on seeds,weed,and control open
+[Link](content.md)
+
