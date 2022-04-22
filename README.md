@@ -61,8 +61,7 @@ Basing on global research most studies suggest that the optimal amount of fruits
  -  orange 
 etc.
 
-  Project "fruitplanting Adjumani Uganda"
-Among the fruits we have potted:
+  Among the fruits we have potted:
 
  -  mangoes 
 
@@ -168,8 +167,8 @@ The following are tips on how to plant jack fruits.
 
   - atterberg limits(basic measure of critical water contents of fine grained soil,ie
  
-  **it's shrinkage limit**
-  **it's plastic limit**
+  **it's shrinkage limit**,
+  **it's plastic limit**,and
   **liquid limits depending on its water content**
  
   
