@@ -20,7 +20,7 @@ Fruit-culture is the systematic cultivation,propagation or rearing of fruits or 
 
 Note: aims, objectives, vision, importance and other narratives of this repository will be filed in detaile at a later stage.
 
- # MOTIVATION
+# MOTIVATION
 
   Here is what influenced me to start this project repository:
 Basing on global research most studies suggest that the optimal amount of fruits is two or five servings per day and there seems to be no harm in eating them instead it contributes too much to the immune system health wise.
