@@ -27,8 +27,7 @@ Basing on global research most studies suggest that the optimal amount of fruits
 
 **Considering this, fruitplanting will have greate impact to the community**
 
-
- # IMPORTANCE.     
+# IMPORTANCE.     
 
  -  people who are eating more fruits as part of their diet are likely to have a reduced risk of some chronic diseases.        
 
@@ -36,11 +35,13 @@ Basing on global research most studies suggest that the optimal amount of fruits
 
  -  most fruits are naturally low in fats, sodium and calories and we know the effects of too much of sodium, fats and calories, as well as the good effects of adding vitamins, so I vote these for my global communities for good health.
 
- # VISION
- My vision is to create a community well sensitised on how fruits are propagated, planted and their importance in a healthy diet.
+# VISION
+ 
+My vision is to create a community well sensitised on how fruits are propagated, planted and their importance in a healthy diet.
 
 # Collection
- healthiest fruits on earth
+ 
+healthiest fruits on earth
 
  -  grape fruits 
 
@@ -91,8 +92,7 @@ ANUSERY BED.
   - availability of market
   
   - accessibility of the area.
-
- # TIPS
+# TIPS
    
 The following are tips on how to plant jack fruits.
  
@@ -118,8 +118,7 @@ The following are tips on how to plant jack fruits.
   
   - it should be slightly acidic.
 
-
- # MATERIALS
+# MATERIALS
  
  The following are materials needed setting anurserybed shed;
   
@@ -202,7 +201,6 @@ The following are tips on how to plant jack fruits.
   - pH falls between 3 and 10 with 7 being neutral.
   
   - The required pH for fruit farming is from 6-7.5.
-
 
 # SOME SCIENTIFIC NAMES OF CERTAIN FRUITS.
 
