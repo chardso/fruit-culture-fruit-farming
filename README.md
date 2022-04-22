@@ -14,16 +14,16 @@ Fruit-culture is the systematic cultivation,propagation or rearing of fruits or 
 
 
 
-* In this case we shall propagate seedlings, of fruits from nusery beds, place them in potting bags and donate to communities for planting.*
+**In this case we shall propagate seedlings, of fruits from nusery beds, place them in potting bags and donate to communities for planting**
 
-> Note: aims, objectives, vision, importance and other narratives of this repository will be filed in detaile at a later stage.
+Note: aims, objectives, vision, importance and other narratives of this repository will be filed in detaile at a later stage.
 
  # MOTIVATION
 
   Here is what influenced me to start this project repository:
 Basing on global research most studies suggest that the optimal amount of fruits is two or five servings per day and there seems to be no harm in eating them instead it contributes too much to the immune system health wise.
 
-** Considering this, fruitplanting will have greate impact to the community.**  
+**Considering this, fruitplanting will have greate impact to the community**
 
 
  # IMPORTANCE.     
@@ -72,7 +72,7 @@ Among the fruits we have potted:
  we look forward to acquire more.
 
  
-Feel free to help adding valuable information into this repository, 
+**Feel free to help adding valuable information into this repository**
  starting with a detailed [feature-issue-request](https://github.com/chardso/fruit-culture-fruit-farming/issues)
 
 
@@ -91,10 +91,7 @@ ANUSERY BED.
   
   - accessibility of the area.
 
-
-    
-  
-    # TIPS,
+ # TIPS
    
 The following are tips on how to plant jack fruits.
  
@@ -110,7 +107,7 @@ The following are tips on how to plant jack fruits.
  
   - water to provide moisture and in 6weeks the seeds shall have germinated into healthy seedling.
    
-   # SOIL TYPE.
+   # SOIL TYPE
   
   - sandy loam that is granular and porous 
   
@@ -121,7 +118,7 @@ The following are tips on how to plant jack fruits.
   - it should be slightly acidic.
 
 
- # MATERIALS;
+ # MATERIALS
  
  The following are materials needed setting anurserybed shed;
   
@@ -153,8 +150,7 @@ The following are tips on how to plant jack fruits.
 
  - hose soil,sand and compost.
 
-
-    # PHYSICAL PROPERTIES OF THE SOIL;
+# PHYSICAL PROPERTIES OF THE SOIL
   
   - soil texture,which is referred to as the relative proportion of particles of various sizes such as sand,silt and clay in the soil.  -
  
@@ -172,17 +168,17 @@ The following are tips on how to plant jack fruits.
 
   - atterberg limits(basic measure of critical water contents of fine grained soil,ie
  
-  . it's shrinkage limit
-  . it's plastic limit
-  . liquid limits depending on its water content
+  **it's shrinkage limit**
+  **it's plastic limit**
+  **liquid limits depending on its water content**
  
   
-  - Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
+  - Asoil may appear in one or four states,**solid**,**semisolid**, **plastic** and **liquid**
 
 
 
 
-# CHEMICAL PROPERTIES OF THE SOIL;
+# CHEMICAL PROPERTIES OF THE SOIL
    
   - cation exchange capacity.
   
