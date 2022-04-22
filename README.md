@@ -107,8 +107,8 @@ The following are tips on how to plant jack fruits.
   - sow your seeds and gently cover with the soil 
  
   - water to provide moisture and in 6weeks the seeds shall have germinated into healthy seedling.
-   
-   # SOIL TYPE
+
+# SOIL TYPE
   
   - sandy loam that is granular and porous 
   
