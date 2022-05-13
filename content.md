@@ -155,13 +155,14 @@ The following are tips on how to plant jack fruits.
   - soil colour
 
   - atterberg limits(basic measure of critical water contents of fine grained soil,ie
- 
-  . it's shrinkage limit
-  . it's plastic limit
-  . liquid limits depending on its water content
- 
-  
-  - Asoil may appear in one or four states,; solid,semisolid, plastic and liquid.
+
+- *it's shrinkage limit*
+- *it's plastic limit*
+- *liquid limits depending on its water content*
+- Asoil may appear in one or four states that's, 
+- *solid*
+- *semisolid* 
+- *plastic and liquid*
 
 # chemical properties of the soil
    
@@ -203,7 +204,7 @@ for planting making five weeks on 5/12/2020
 # managment of nursery beds
 - Sowing may be dry seeding. 
      
-Seeds may be covered with sand and finely powdered farm yard manure.
+- Seeds may be covered with sand and finely powdered farm yard manure.
 
 # Seed Rate, Quality and Treatment
 # seed rate  
