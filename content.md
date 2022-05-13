@@ -79,12 +79,7 @@ Feel free to help adding valuable information into this repository,
   - availability of market
   
   - accessibility of the area
-
-
-    
-  
 # Tips
-   
 The following are tips on how to plant jack fruits.
  
   - clearing the area meant for planting 
@@ -191,100 +186,59 @@ The following are tips on how to plant jack fruits.
   - pH falls between 3 and 10 with 7 being neutral.
   
   - The required pH for fruit farming is from 6-7.5.
-
-
 # some scientific names of certain fruits
-
-
 - mango-Mangifera indica
-
 - Apple-pyrus malus
-
 - pomegranate-punica granatum
-
 - pineapple -ananassa sativus
-
 - Orange-citrus aurantium
-
 - strawberry-Fragariax ananassa
-
 - Watermelon-citrullus vulgaris
-
 - jackfruits-Artocarpus heterophyllus
-
 - Guava-psidium guava
-
-
 - Lemon-citrus limonium
- 
-  The seedlings are now four weeks.
- 
- The jackfruit seedlings are now visible ready 
-  for planting making five weeks on 5/12/2020
-
+The seedlings are now four weeks.
+The jackfruit seedlings are now visible ready 
+for planting making five weeks on 5/12/2020
 # managment of nursery beds
-    
 - Sowing may be dry seeding. 
      
 Seeds may be covered with sand and finely powdered farm yard manure.
 
-
-Seed Rate, Quality and Treatment
-
+# Seed Rate, Quality and Treatment
 # seed rate  
-1.SRI method
-  
+## SRI method
 - 7 to 8 kg/ha (for all varieties and hybrids
-
-2. Conventional method
+## Conventional method
 - 30 kg for long duration varieties
 - 40 kg for medium duration varieties
 - 60 kg for short duration varieties
 - 20 kg for Hybrids
-
 # seed quality
-
 - Healthy and vigorous seedlings are the bases for better crop growth and yield.
-
 - Vigorous seedlings produced in the nursery will be able to withstand pest attack in the main field. 
-
 # Seeds intended for sowing should satisfy the following requirements 
-    
 - The seed should belong to the proper variety, which is proposed to be grown.
-    
 - The seed should be clean and free from mixtures of other seeds.
-    
 - The seed should be mature, well developed and plump in size.
-    
 - The seed should be free from obvious signs of age or bad storage
-    
 - The seed should have a high germinating capacity.
 - Before sowing, the seed should be treated with fungicides which protects the seed against soil-born fungi and also give a boost to the seedlings.
-
 # Upgradation of seed quality using salt solution
-    
 - Ten litre of water is taken in a plastic bucket of 15 litre capacity and a good quality fresh egg is dropped in the water and the egg sinks in water and reaches the bottom.
-    
 - The commercial grade common salt is added little by little and dissolved in water. As the density of salt solution increases, the egg raise up.
-    
 - The addition of salt (Sodium chloride) is stopped when the surface of the egg  is visible above the solution.
-    
 - To this salt solution add 10kg of seeds.   
-    
 - The seeds with low density float on the surface of the solution.
-    
 - The seeds floating on the surface of the solution are removed.
-    
 - The seeds sunk in the solution are washed for 2-3 times in water and then used.
-
 # Seed treatment
-
 ## types
 - Wet seed treatment
     
 - Dry seed treatment
 
-# Wet seed treatment :
+# Wet seed treatment 
     
 - Treat the seeds in Carbendazim or Pyroquilon or Tricyclozole solution at 2 gm/lit of water for 1 kg of seeds for 10 hrs and drain excess water.
     
