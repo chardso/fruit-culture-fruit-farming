@@ -314,8 +314,7 @@ seedling if soil is heavy clay
 - Larvae cut the seedlings in large scale
 - Severe infestation - cattle grazing appearance to the field.
 - They feed gregariously and march from field to field.
-
-#:Nature of damage
+# Nature of damage
 - Caterpillars march in large numbers in the evening hours and feed on the leaves of paddy seedlings till the morning and hide during daytime.
 - They feed gregariously and after feeding the plants in one field march onto the next field.  Under severe infestation crop gives the grazed appearance.
 - Attacked plants are reduced to stumps.  Nurseries situated in ill-drained marshy areas attacked earlier than dry ground.
