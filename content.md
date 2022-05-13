@@ -364,17 +364,13 @@ seedling if soil is heavy clay
 - Phosphamidon 40SL 50ml (or) Monocrotophos 36SL 40ml
 # Biological control
 - Predatory thrips, coccinellid beetles, anthocorid bugs, and staphylinid beetles are biological control agents that feed on both the larvae and adults.
-
-
 - Green leafhopper (Nephotettix nigropictus, N. cincticeps, N. virescens)
 # Symptom of damage
 - Yellowing of leaves from tip to downwards.
 - Vector for the diseases viz., Rice tungro virus, rice yellow & transitory yellowing.
-
 # Nature of damage
-Both nymphs and adults suck the plant sap from the leaf and leaf sheath. 
-
- Mild infestation reduces the vigour of the plant and the number of reproductive tillers.  Heavy infestation causes withering and complete drying of the crop.  Plants are predisposed to fungal and bacterial infection through feeding and ovipositional  punctures.  .  It also transmits plant diseases such as dwarf, transitory yellowing, yellow dwarf and rice tungro virus (Tungro is transmitted during short feeding period).
+- Both nymphs and adults suck the plant sap from the leaf and leaf sheath. 
+- Mild infestation reduces the vigour of the plant and the number of reproductive tillers.  Heavy infestation causes withering and complete drying of the crop.  Plants are predisposed to fungal and bacterial infection through feeding and ovipositional  punctures.  .  It also transmits plant diseases such as dwarf, transitory yellowing, yellow dwarf and rice tungro virus (Tungro is transmitted during short feeding period).
 # Life stages
 ## Egg
 - Greenish transparent eggs are deposited in the midrib of leaf blade or sheath of rice or green grass.  
@@ -412,7 +408,7 @@ Both nymphs and adults suck the plant sap from the leaf and leaf sheath. 
 - Moth is delicate white moth with pale brown wavy markings. 
 - The adult is a small delicate moth having white wings speckled with pale brown wavy markings.  Females are larger than males.  Egg laying takes place in the night.
 # Management strategies
-##Cultural control
+## Cultural control
 - Mix 250 ml of kerosene to the standing water
 - Dislodge the cases by passing a rope and drain water
 - Collect the cases and destroy
@@ -420,13 +416,15 @@ Both nymphs and adults suck the plant sap from the leaf and leaf sheath. 
 - Spray any one of the following herbicide : 
 - Monocrotophos 36 SL 40 ml (or) Quinalphos 25 EC 80 ml.
 ## Nursery Diseases
+
 # Blast 
 - Pyricularia oryzea
+
 # Brown spot 
 - Drechslera oryzae (Cochliobolus miyabean)
 # Rice Tungro virus disease
 - Rice tungro  Bacilliform virus
--Rice tungro Spherical virus
+- Rice tungro Spherical virus
 # Rice blast (Pyricularia oryzea)
 ## Symptom of damage
 - Disease can infect paddy at all growth stages and all aerial parts of plant (Leaf, neck and node).
